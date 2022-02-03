@@ -1,4 +1,6 @@
 - 👋 Hi, we're @gruntlabs
+- We launched [Fubar Coin](https://solscan.io/token/HLccaGrQyyfiDddCGmE5h3sysNE7gYFbcDb4KS68fvM9) on the Solana Network.
+- We are working on more blockchain projects!
 
 
 <!---
